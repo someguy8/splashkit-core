@@ -55,6 +55,7 @@ void setup_tests()
     add_test("TCP Networking Test", run_tcp_networking_test);
     add_test("Twitter Test", run_twitter_test);
     add_test("Collisions Test", run_collisions_test);
+
 }
 
 int main()
